@@ -3,10 +3,10 @@ This directory contains the code for a basic interactive map using Mapbox in a V
 
 ## Getting Started
 ### Installation Steps
-1. **Clone the repository : **
+1. **Clone the repository :**
 ```bash
-git clone https://github.com/yourusername/basic-vite-react-mapbox.git
-cd basic-vite-react-mapbox
+git clone https://github.com/rohitk-9/mapbox-tutorials
+cd mapbox-tutorials
 ```
 2. **Navigate to this directory :**
 ```bash
