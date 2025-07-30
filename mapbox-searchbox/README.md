@@ -26,7 +26,7 @@ VITE_MAPBOX_ACCESS_TOKEN=your_access_token_here
 
 3. **Navigate to this directory :**
 ```bash
-cd mapbox-markers
+cd mapbox-searchbox
 ```
 4. **Install dependencies :**
 ```bash
