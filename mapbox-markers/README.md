@@ -23,22 +23,25 @@ To get a local copy of this project up and running, follow these steps:
    git clone https://github.com/yourusername/mapbox-vite-react.git
    cd mapbox-vite-react
 
-2. Set up your environment:
-
-
-2. **Navigate to this directory :**
-```bash
-cd basic-mapbox-interactive-map
+2. **Set up your environment:**
+   Create a .env.local file in the src directory and add your Mapbox access token:
 ```
-2. **Install dependencies :**
+VITE_MAPBOX_ACCESS_TOKEN=your_access_token_here
+```
+
+3. **Navigate to this directory :**
+```bash
+cd mapbox-markers
+```
+4. **Install dependencies :**
 ```bash
 npm install
 ```
-2. **Run the application :**
+5. **Run the application :**
 ```bash
 npm run dev
 ```
-2. **Open your browser and navigate to :**
+6. **Open your browser and navigate to :**
 ```
 http://localhost:5173
 ```
