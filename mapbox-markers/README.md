@@ -20,7 +20,7 @@ To get a local copy of this project up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/mapbox-vite-react.git
+   git clone https://github.com/rohitk-9/mapbox-tutorials.git
    cd mapbox-vite-react
 
 2. **Set up your environment:**
